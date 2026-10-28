@@ -1,0 +1,5 @@
+obj/
+social_net
+social_net.exe
+*.o
+.DS_Store
